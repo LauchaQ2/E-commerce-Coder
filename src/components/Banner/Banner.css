@@ -1,0 +1,8 @@
+.banner{
+    height: 500px;
+    margin: 0;
+    background-image: url(../../assets/space.jpg);
+    background-size: cover;
+    background-position-y: center;
+    margin-bottom: 50px;
+}
