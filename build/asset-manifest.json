@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/E-commerce-Coder.git/static/css/main.edf15c76.chunk.css",
+    "main.js": "/E-commerce-Coder.git/static/js/main.45871fbc.chunk.js",
+    "main.js.map": "/E-commerce-Coder.git/static/js/main.45871fbc.chunk.js.map",
+    "runtime-main.js": "/E-commerce-Coder.git/static/js/runtime-main.b2121852.js",
+    "runtime-main.js.map": "/E-commerce-Coder.git/static/js/runtime-main.b2121852.js.map",
+    "static/js/2.e0b16e21.chunk.js": "/E-commerce-Coder.git/static/js/2.e0b16e21.chunk.js",
+    "static/js/2.e0b16e21.chunk.js.map": "/E-commerce-Coder.git/static/js/2.e0b16e21.chunk.js.map",
+    "static/js/3.bbbfcefd.chunk.js": "/E-commerce-Coder.git/static/js/3.bbbfcefd.chunk.js",
+    "static/js/3.bbbfcefd.chunk.js.map": "/E-commerce-Coder.git/static/js/3.bbbfcefd.chunk.js.map",
+    "index.html": "/E-commerce-Coder.git/index.html",
+    "static/css/main.edf15c76.chunk.css.map": "/E-commerce-Coder.git/static/css/main.edf15c76.chunk.css.map",
+    "static/js/2.e0b16e21.chunk.js.LICENSE.txt": "/E-commerce-Coder.git/static/js/2.e0b16e21.chunk.js.LICENSE.txt",
+    "static/media/logomangas.ebaebac8.png": "/E-commerce-Coder.git/static/media/logomangas.ebaebac8.png",
+    "static/media/Banner.css": "/E-commerce-Coder.git/static/media/space.e8fc7c0e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2121852.js",
+    "static/js/2.e0b16e21.chunk.js",
+    "static/css/main.edf15c76.chunk.css",
+    "static/js/main.45871fbc.chunk.js"
+  ]
+}
