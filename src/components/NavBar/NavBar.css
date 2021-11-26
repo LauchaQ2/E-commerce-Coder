@@ -7,8 +7,10 @@
     justify-content: space-around;
     width: 100%;
     margin: 0;
+    margin-bottom: 25px;
     padding: 0;
     height: 100px;
+    box-shadow: 2px 1px 10px #888888;
 }
 #logo{
     width: 200px;
